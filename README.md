@@ -1,4 +1,4 @@
-## Prazer meu nome é Guilherme Timm, sou um desenvolvedor web!
+## Meu nome é Guilherme Timm, sou um desenvolvedor web!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gtm-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
