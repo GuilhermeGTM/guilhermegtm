@@ -1,5 +1,9 @@
 ## Olá!!! Meu nome é Guilherme Timm
 Sou formado em ADS e tenho foco no desenvolvimento web utilizando Python e Django. Estou sempre em busca de aprimorar minhas habilidades e ampliar meu conhecimento. Meu objetivo é construir aplicações robustas e contribuir ativamente para projetos que façam a diferença.
+
+##
+
+<h3 align="left">My Stack </h3>
 <!--Imagem de linguagens-->
 <div style="display: inline_block"><br>
   <!---->
@@ -42,14 +46,20 @@ Sou formado em ADS e tenho foco no desenvolvimento web utilizando Python e Djang
    </div>
 </div>
      
-##
+## 
+<h3 align="left">Entre em contato comigo!</h3>
 
-<!--Redes Sociais-->   
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guilheme-gtm@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilhermegtm)
+
+<!--Redes Sociais--> 
+<!--
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
 <div>
 <a href = "mailto:guilherme-gtm@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/guilhermegtm" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30" target="_blank"></a> 
 </div>
-
+-->
 ##
 
 <picture align="center">
