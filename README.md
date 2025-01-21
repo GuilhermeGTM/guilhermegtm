@@ -13,6 +13,9 @@ Sou formado em ADS e tenho foco no desenvolvimento web utilizando Python e Djang
   <img align="center" alt="Gtm-Django" height="30" width="70" 
   src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <!---->
+  <img align="center" alt="Gtm-DjangoRest" height="40" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg">
+  <!---->
   <img align="center" alt="Gtm-Js" height="30" width="30"       
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <!---->
@@ -33,6 +36,7 @@ Sou formado em ADS e tenho foco no desenvolvimento web utilizando Python e Djang
   <!---->
   <img align="center" alt="Gtm-SQLite" height="30" width="30"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  <!---->
 </div>
 
 ##
