@@ -1,5 +1,5 @@
 ## Olá!!! Meu nome é Guilherme Timm
-Sou formado em ADS e tenho foco no desenvolvimento web utilizando Python e Django. Estou sempre em busca de aprimorar minhas habilidades e ampliar meu conhecimento. Meu objetivo é construir aplicações robustas e contribuir ativamente para projetos que façam a diferença.
+Sou formado em ADS e tenho foco no desenvolvimento web. Estou sempre em busca de aprimorar minhas habilidades e ampliar meu conhecimento. Meu objetivo é construir aplicações robustas e contribuir ativamente para projetos que façam a diferença.
 
 ##
 
