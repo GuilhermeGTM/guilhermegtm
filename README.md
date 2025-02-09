@@ -37,6 +37,10 @@ Sou formado em ADS e tenho foco no desenvolvimento web. Estou sempre em busca de
   <img align="center" alt="Gtm-SQLite" height="30" width="30"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
   <!---->
+  <img align="center" alt="Gtm-Docker" height="40" width="40"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <!---->
+</div>
 </div>
 
 ##
