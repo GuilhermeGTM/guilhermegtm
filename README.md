@@ -43,7 +43,7 @@ Sou formado em ADS e tenho foco no desenvolvimento web. Estou sempre em busca de
 </div>
 </div>
 
-##
+
 
 <!--github stats-->
 <!--
@@ -55,7 +55,8 @@ Sou formado em ADS e tenho foco no desenvolvimento web. Estou sempre em busca de
    </div>
 </div>
 -->   
-## 
+
+
 <h3 align="left">Entre em contato comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guilheme-gtm@hotmail.com)
