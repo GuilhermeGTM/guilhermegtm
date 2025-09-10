@@ -47,6 +47,8 @@ Sou formado em ADS e tenho foco no desenvolvimento web. Estou sempre em busca de
 
 <!--github stats-->
 <!--
+##
+
 <div align="center" style="display: inline">
    <a href="https://github.com/guilhermegtm">
    <div style="display: inline_block">
@@ -54,8 +56,9 @@ Sou formado em ADS e tenho foco no desenvolvimento web. Estou sempre em busca de
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGtm&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
--->   
-
+     
+## 
+-->
 
 <h3 align="left">Entre em contato comigo!</h3>
 
